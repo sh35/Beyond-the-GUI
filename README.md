@@ -5,7 +5,7 @@ This repository contains a collection of teaching materials developed for a high
 You can find more information about the course and the grant for which it was developed here:
 https://github.com/sh35/Beyond-the-GUI/wiki
 
-Here is a course map outlining topics by week and detailed lesson plans:
+A course map outlining topics by week and detailed lesson plans here:
 https://github.com/sh35/Beyond-the-GUI/projects/1
 
 All the code for this course resides in GitHub repository:
