@@ -1,4 +1,4 @@
-# Beyond-the-GUI
+# Exploring Interfaces Beyond the GUI
 
 This repository contains a collection of teaching materials developed for a high school Computer Science seminar on Exploring Interfaces Beyond the GUI.  
 
